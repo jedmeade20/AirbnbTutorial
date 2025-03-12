@@ -1,7 +1,17 @@
-This is an Airbnb replica usign SwiftUI. Features inclued: Search bar to find places to stay, scroll through multiple photos, ability to view AirBnb and see location on map, login page, Tab bar with multiple options.
-This is based on a youtube tutorial by AppStuff. 
+# Project Title
+Airbnb replica usign SwiftUI
 
+## Description
+Allows users to search to find places to stay, scroll through multiple photos, ability to view AirBnb and see location on map, login page, Tab bar with multiple options. This is based on a youtube tutorial by AppStuff. 
 
+### Dependencies
+* Xcode 5 or later
+* Swift
+
+## Version History
+* 0.1
+    * Initial Release
+      
 <img width="372" alt="Screenshot 2025-03-11 at 11 36 04 AM" src="https://github.com/user-attachments/assets/39408886-6cd3-41e7-8020-e71fdc90d9a3" />
 <img width="372" alt="Screenshot 2025-03-11 at 11 36 16 AM" src="https://github.com/user-attachments/assets/525bcb3d-383d-4866-b5fb-b145ef9c933f" />
 <img width="368" alt="Screenshot 2025-03-11 at 11 36 33 AM" src="https://github.com/user-attachments/assets/f9419a41-bc61-48e0-8bd9-e8d5bee36d9e" />
